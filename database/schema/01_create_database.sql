@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS zivo_db;
+
+USE zivo_db;

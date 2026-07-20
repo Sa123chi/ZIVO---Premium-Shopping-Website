@@ -1,0 +1,45 @@
+@media(max-width:1200px) {
+
+    .container {
+
+        width: 96%;
+
+    }
+
+}
+
+@media(max-width:992px) {
+
+    .section {
+
+        padding: 60px 0;
+
+    }
+
+}
+
+@media(max-width:768px) {
+
+    .section-title {
+
+        font-size: 2rem;
+
+    }
+
+}
+
+@media(max-width:576px) {
+
+    .section {
+
+        padding: 40px 0;
+
+    }
+
+    .section-title {
+
+        font-size: 1.7rem;
+
+    }
+
+}
